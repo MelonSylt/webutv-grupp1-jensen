@@ -12,6 +12,7 @@ namespace JensensWebApp.Controllers
     {
         private readonly ILogger<HomeController> _logger;
         private IList<Article> _articles;
+        //this is a cmoment
 
 
         public HomeController(ILogger<HomeController> logger)
